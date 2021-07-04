@@ -17,9 +17,7 @@ body {
   background-position: center;
   background-image: url("./../img/beachshowcase.jpg");
   text-align: center;
-}
-.header-title {
-  padding-top: 40vh;
+   padding-top: 40vh;
 }
 .header-text {
   font-size: 20px;
@@ -61,6 +59,7 @@ body {
   padding: 20px;
   background-color: #926239;
   color: #ffffff;
+  font-size: 17px;
 }
 .footer-inverted-colors {
   background-color: #ffffff;
